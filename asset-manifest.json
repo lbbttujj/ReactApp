@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ReactApp/static/css/main.8579538a.chunk.css",
+    "main.js": "/ReactApp/static/js/main.f6210fbc.chunk.js",
+    "main.js.map": "/ReactApp/static/js/main.f6210fbc.chunk.js.map",
+    "runtime-main.js": "/ReactApp/static/js/runtime-main.f8a6e6be.js",
+    "runtime-main.js.map": "/ReactApp/static/js/runtime-main.f8a6e6be.js.map",
+    "static/js/2.04c56f0d.chunk.js": "/ReactApp/static/js/2.04c56f0d.chunk.js",
+    "static/js/2.04c56f0d.chunk.js.map": "/ReactApp/static/js/2.04c56f0d.chunk.js.map",
+    "static/js/3.94048aae.chunk.js": "/ReactApp/static/js/3.94048aae.chunk.js",
+    "static/js/3.94048aae.chunk.js.map": "/ReactApp/static/js/3.94048aae.chunk.js.map",
+    "index.html": "/ReactApp/index.html",
+    "static/css/main.8579538a.chunk.css.map": "/ReactApp/static/css/main.8579538a.chunk.css.map",
+    "static/js/2.04c56f0d.chunk.js.LICENSE.txt": "/ReactApp/static/js/2.04c56f0d.chunk.js.LICENSE.txt",
+    "static/media/left-arrow.f8eff49d.svg": "/ReactApp/static/media/left-arrow.f8eff49d.svg",
+    "static/media/logo.6ce24c58.svg": "/ReactApp/static/media/logo.6ce24c58.svg",
+    "static/media/right-arrow.bafb92c9.svg": "/ReactApp/static/media/right-arrow.bafb92c9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f8a6e6be.js",
+    "static/js/2.04c56f0d.chunk.js",
+    "static/css/main.8579538a.chunk.css",
+    "static/js/main.f6210fbc.chunk.js"
+  ]
+}
