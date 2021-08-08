@@ -1,0 +1,19 @@
+.pagination__btn-left 
+{
+ display: none;
+}
+
+.pagination__btn-right
+{
+ display: none;
+}
+.pagination__btn-right + label{
+    position: absolute;
+    right:30px;
+    top:330px
+}
+.pagination__btn-left + label{
+    position: absolute;
+    left:30px;
+    top:330px
+}
